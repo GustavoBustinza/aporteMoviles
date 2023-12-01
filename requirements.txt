@@ -1,9 +1,0 @@
-Flask==2.0.1
-
-nltk==3.6.3
-
-googletrans==4.0.0-rc1
-
-matplotlib==3.4.3
-
-requests==2.26.0
