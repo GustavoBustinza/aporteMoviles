@@ -1,7 +1,0 @@
-vader_lexicon
-
-punkt
-
-wordnet
-
-stopwords
