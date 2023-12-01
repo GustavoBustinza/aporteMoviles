@@ -5,6 +5,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from googletrans import Translator
 import requests
+import nltk
 
 app = Flask(_name_)
 
